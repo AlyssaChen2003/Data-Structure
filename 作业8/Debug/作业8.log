@@ -1,0 +1,3 @@
+﻿  1.cpp
+D:\2021秋_VS\作业8\1.cpp(343): warning C4715: “avlTree::getCloestLeaf”: 不是所有的控件路径都返回值
+  作业8.vcxproj -> D:\2021秋_VS\作业8\Debug\作业8.exe
