@@ -1,7 +1,4 @@
-# data structure
-
-#### nku杨巨峰老师数据结构课程作业
-#### solution文件用VS2019 or VS2010打开（那时候混着用的不记得哪个是哪个了）
-#### 同一份文件最新的应该是对的
+# Data Structure
+Personal course work for NKU-COSC0007-Data Structure. WARNING: only for references;
 
 
